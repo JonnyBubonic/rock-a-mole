@@ -1,0 +1,81 @@
+1  cd
+    2  pwd
+    3  ls -lah
+    4  pwd
+    5  mkdir rockamole
+    6  cd rockamole
+    7  https://github.com/joanJender/rock-a-mole.git
+    8  git clone https://github.com/joanJender/rock-a-mole.git
+    9  git branch -a
+   10  ls
+   11  cd rock-a-mole/
+   12  git branch -a
+   13  git branch develop
+   14  git status
+   15  cd branch -a
+   16  git branch -a
+   17  git checkout develop
+   18  nano README.md
+   19  nano README.md
+   20  vim README.md
+   21  ls
+   22  git add README.md
+   23  git add readme2.md
+   24  git commit -m "This is my first commit ever bro"
+   25  git config user.email "jonnyk08@gmail.com"
+   26  git config user.name "Jon"
+   27  git commit -m "This is my first commit ever bro"
+   28  git push -u origin develop
+   29  git checkout master
+   30  git pull
+   31  ls
+   32  cat index.php
+   33  git branch -a
+   34  git checkout stage
+   35  nano index.php
+   36  git status
+   37  git add index.php
+   38  git push -u
+   39  git push
+   40  git push -u origin stage
+   41  git config user.email
+   42  git config user.email "keegan@openmailbox.org"
+   43  git config user.email
+   44  git push -u origin stage
+   45  cd..
+   46  cd ..
+   47  cd ..
+   48  pwd
+   49  rm -rf rockamole/
+   50  git clone https://github.com/JonnyBubonic/rock-a-mole.git
+   51  cd rock-a-mole/
+   52  git branch jonny
+   53  git checkout jonny
+   54  ls
+   55  nano jonny.php
+   56  git add jonny.php
+   57  git commit -m "this is a commit message"
+   58  git config --global user.email "jonnyk08@gmail.com"
+   59  git config --global user.name "Jon"
+   60  git commit -m "this is a commit message"
+   61  git push
+   62  git push -u origin jonny
+   63  git branch develop
+   64  git checkout develop
+   65  git pull
+   66  git branch -a
+   67  git pull origin/master master
+   68  git pull origin/master develop
+   69   git branch --set-upstream-to=origin/master develop
+   70  git pull
+   71  git status
+   72  git push
+   73  git push origin develop
+   74  nano jonny.php
+   75  git add jonny.php
+   76  git push
+   77  git commit
+   78  git push origin develop
+   79  git commit -m "hey you guy"
+   80  git push origin develop
+   81  history
